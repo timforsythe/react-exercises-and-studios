@@ -1,0 +1,28 @@
+{
+    "projects": [
+        {
+            "loaf": "Sourdough",
+            "baker": "Thomas Keller",
+            "url": "https://www.petitehaus.com/wp-content/uploads/2019/02/bread7.jpg",
+            "alt": "Sourdough boule from Bouchon Bakery"
+        },
+        {
+            "loaf": "Pain de Campagne",
+            "baker": "Francois Hiegel",
+            "url": "https://breadbythehour.com/wp-content/uploads/2020/07/featured-pain-de-campagne.gif",
+            "alt": "Pain de Campagne from Bouchon Bakery"
+        },
+        {
+            "loaf": "No Knead Bread",
+            "baker": "Jim Lahey",
+            "url": "https://static01.nyt.com/images/2020/04/16/dining/mb-no-knead-bread-copy/mb-no-knead-bread-master768.jpg?w=1280&q=75",
+            "alt": "No Knead Bread from Jim Lahey"
+        },
+        {
+            "loaf": "Pain au Bacon",
+            "baker": "Ken Forkish",
+            "url": "https://tastecooking.com/wp-content/uploads/2020/05/Social-Pain-au-Bacon.jpg",
+            "alt": "Pain au Bacon from Ken Forkish"
+        }
+    ]
+}
